@@ -4,7 +4,7 @@
 [] I README.md filen ska det tydligt framgå vilken sida du har valt att återskapa och
 eventuella avgränsningar du har valt att göra och varför, en länk till originalhemsidan, samt ditt namn.
 
-\*\* Svar: Jag har valt [apple.com](https://www.apple.com/) Har försökt göra sidan så snarlik jag kan med den infon vi har fått och försökt göra så få avgrensningar som möjligt.
+\*\* Svar: Jag har valt [apple.com](https://www.apple.com/) Har försökt göra sidan så snarlik jag kan med den infon vi har fått och försökt göra så få avgrensningar som möjligt. Men har fått välja bort att visa ikoner när sidan kryper till mobil-storlek.
 
 [x] Git och Github har använts (repot ska vara publikt så jag kommer åt det)
 
