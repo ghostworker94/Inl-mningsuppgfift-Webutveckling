@@ -10,7 +10,7 @@ eventuella avgränsningar du har valt att göra och varför, en länk till origi
 
 [x] Minst en skärmdump på orginalhemsidans utseende skall finns i er projektmapp
 
-[] Elementen på sidan skall vara såpass responsiva att de stannar kvar i bild
+[x] Elementen på sidan skall vara såpass responsiva att de stannar kvar i bild
 
 [x] Färger, storlekar och avstånd skall vara snarlika orignalhemsidans
 
